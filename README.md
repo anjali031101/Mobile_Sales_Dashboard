@@ -1,5 +1,8 @@
 # Mobile_Sales_Dashboard| Power BI
 
+![Mobile Sales Dashboard Screenshot](https://raw.githubusercontent.com/anjali031101/Mobile_Sales_Dashboard/main/Screenshot%202025-07-13%20220328.png)
+
+
 An interactive Power BI dashboard to analyze mobile sales across Indian cities using custom DAX measures, filters, and drill-downs.
 ## 🔍 Features
 - Dynamic filters: Brand, Model, Month, Payment Method, Day Name
